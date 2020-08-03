@@ -1,1 +1,1 @@
-# solitare_bot
+Solitaire
